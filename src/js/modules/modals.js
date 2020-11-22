@@ -57,7 +57,8 @@ const modals = () => {
     bindModal('.popup_calc_button', '.popup_calc_profile', '.popup_calc_profile_close', false);
     bindModal('.popup_calc_profile_button', '.popup_calc_end', '.popup_calc_end_close', false);
 
-    // showModalByTime('.popup', 60000); //покажем модальное окно спустя время 
+    // showModalByTime('.popup', 60000); //покажем модальное окно спустя указанное время
+    // blablabla
 };
 
 export default modals;
